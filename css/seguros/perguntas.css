@@ -50,8 +50,8 @@
   transform: rotate(180deg);
 }
 
-.perguntas dd {
-  display: none;
+.js .perguntas dd {
+  display: block;
 }
 
 .perguntas dd.ativa {
